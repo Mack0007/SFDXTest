@@ -1,0 +1,114 @@
+[
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6\\force-app",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516095859160,
+            "changeTime": 1516095859160,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516095859160,
+            "changeTime": 1516095859160,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516096334917,
+            "changeTime": 1516096334917,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516095859161,
+            "changeTime": 1516095859161,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516095964943,
+            "changeTime": 1516095964943,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6\\force-app\\main\\default\\classes\\Class4.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6\\force-app\\main\\default\\classes\\Class4.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1516096334919,
+            "changeTime": 1516096334919,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6\\force-app\\main\\default\\classes\\Class4.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6\\force-app\\main\\default\\classes\\Class4.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 71,
+            "modifiedTime": 1516096334921,
+            "changeTime": 1516096334921,
+            "contentHash": "570b791855a64877312ae5d5ed044a8b6d78c7c3"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s6\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516096334921,
+            "changeTime": 1516096334921,
+            "contentHash": "ae110709d8cbc983e12f64e05638f755e55ff590"
+        }
+    ]
+]
