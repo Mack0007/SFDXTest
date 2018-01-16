@@ -1,0 +1,244 @@
+[
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516092934260,
+            "changeTime": 1516092934260,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516092934261,
+            "changeTime": 1516092934261,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516094496421,
+            "changeTime": 1516094496421,
+            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516092934261,
+            "changeTime": 1516092934261,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516093651086,
+            "changeTime": 1516093651086,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\objects\\TestNum__c\\TestNum__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\objects\\TestNum__c\\TestNum__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2135,
+            "modifiedTime": 1516093818720,
+            "changeTime": 1516093818720,
+            "contentHash": "558db4fe03e3b4c2bbae56895d38ade25ec40df0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\layouts\\TestNum__c-TestNum Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\layouts\\TestNum__c-TestNum Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 1947,
+            "modifiedTime": 1516093818727,
+            "changeTime": 1516093818727,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5545,
+            "modifiedTime": 1516093818734,
+            "changeTime": 1516093818734,
+            "contentHash": "07bf8fe211623dfdfa648bb64da94c46324fecdb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5883,
+            "modifiedTime": 1516093818746,
+            "changeTime": 1516093818746,
+            "contentHash": "68fa6fc864e057e58d751942fe6b6867b5223117",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19240,
+            "modifiedTime": 1516093818761,
+            "changeTime": 1516093818761,
+            "contentHash": "17133fd11574cb8a8c2c9f8b3d9885cee911e5d4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5545,
+            "modifiedTime": 1516093818770,
+            "changeTime": 1516093818770,
+            "contentHash": "07bf8fe211623dfdfa648bb64da94c46324fecdb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\objects\\TestNum__c",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\objects\\TestNum__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516093818719,
+            "changeTime": 1516093818719,
+            "contentHash": "5cdc089f15a6a0f10e5df97f1b7992ff3afec99f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516093818717,
+            "changeTime": 1516093818717,
+            "contentHash": "bf62234cfc80a7b40d127bba193e53bbaa1b1a20",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516093818727,
+            "changeTime": 1516093818727,
+            "contentHash": "f85aa8e7a1a44a2ad703a088cdcdf10ed5799828",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1516093818770,
+            "changeTime": 1516093818770,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\classes\\Class3.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\classes\\Class3.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1516094496424,
+            "changeTime": 1516094496424,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\classes\\Class3.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\classes\\Class3.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 75,
+            "modifiedTime": 1516094496428,
+            "changeTime": 1516094496428,
+            "contentHash": "f8d29c36d0dc40ec68f21c70afc2769b489aadb9"
+        }
+    ],
+    [
+        "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\MERANDOLKAR\\Documents\\SF DX\\s5\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1516094496427,
+            "changeTime": 1516094496427,
+            "contentHash": "848d9e94db42aa6704920bc0dc3f29ff3ebc5bc7"
+        }
+    ]
+]
